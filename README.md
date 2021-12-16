@@ -88,3 +88,10 @@ The model for classification between cats and dogs is made using CNN which can b
 1.	https://youtu.be/FLf5qmSOkwU
 2.	https://www.javatpoint.com/pytorch-convolutional-neural-network
 3.	https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/
+
+## Personal Information
+### Name:- Ruchi Sharma
+### Section:- E
+### Class RollNo.:- 33
+### University RollNo.:- 2014447
+### Semester:- 5
