@@ -90,8 +90,8 @@ The model for classification between cats and dogs is made using CNN which can b
 3.	https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/
 
 ## Personal Information
-### Name:- Ruchi Sharma
-### Section:- E
-### Class RollNo.:- 33
-### University RollNo.:- 2014447
-### Semester:- 5
+#### Name:- Ruchi Sharma
+#### Section:- E
+#### Class RollNo.:- 33
+#### University RollNo.:- 2014447
+#### Semester:- 5
