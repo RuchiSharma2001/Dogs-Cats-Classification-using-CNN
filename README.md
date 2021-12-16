@@ -1,7 +1,4 @@
 # Dogs-Cats-Classification-using-CNN
-## Step 1:
-### Data Preprocessing
-In ths step dataset is loaded accordng to different directories and categories. After the data is read it is converted into array and stored in the list. Size of each image is set equal. Size of the image is as small as the image can be verified distinctly. Code for loading and storing data and getting ready for the training is completed.
 ## ABSTRACT:
 The goal of this project is to build a model to classify whether the given image is of cat or of dog using Convolution Neural Network (CNN) .
 Convolutional Neural Network is one of the main categories to do image classification and image recognition in neural networks. Scene labeling, objects detections, and face recognition, etc., are some of the areas where convolutional neural networks are widely used.
@@ -89,7 +86,7 @@ The model for classification between cats and dogs is made using CNN which can b
 2.	https://www.javatpoint.com/pytorch-convolutional-neural-network
 3.	https://www.analyticsvidhya.com/blog/2021/06/beginner-friendly-project-cat-and-dog-classification-using-cnn/
 
-## Personal Information
+## Submitted by
 #### Name:- Ruchi Sharma
 #### Section:- E
 #### Class RollNo.:- 33
